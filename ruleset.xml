@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ruleset name="WLion">
+	<description>White Lion Coding Standards</description>
+
+	<rule ref="Generic.WhiteSpace.DisallowSpaceIndent" />	
+	<rule ref="Generic.PHP.UpperCaseConstant" />
+	<rule ref="Generic.Commenting.Fixme" />
+	<rule ref="Generic.Commenting.Todo" />
+	<rule ref="Generic.PHP.DeprecatedFunctions" />
+	<rule ref="Generic.Functions.OpeningFunctionBraceKernighanRitchie" />
+	<rule ref="Squiz.ControlStructures.ControlSignature" />
+</ruleset>
